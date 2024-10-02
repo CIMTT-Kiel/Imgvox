@@ -1,7 +1,7 @@
 # Imgvox
 ## 2D and 3D representations of 812k Parts based on the ABC dataset 
 
-This dataset contains 812.326 part representations. Each Sample includes a 2D and a 3D representation. The Samples are processed based on the [ABC dataset](https://deep-geometry.github.io/abc-dataset/), which includes a large number of technical parts. Therefore, this dataset is especially for researchers and engineers in industrial contexts. It is tailored to support the research in optimizing manufacturing processes through unsupervised and semi-supervised learning techniques.
+This dataset contains 812.294 part representations. Each Sample includes a 2D and a 3D representation. The Samples are processed based on the [ABC dataset](https://deep-geometry.github.io/abc-dataset/), which includes a large number of technical parts. Therefore, this dataset is especially for researchers and engineers in industrial contexts. It is tailored to support the research in optimizing manufacturing processes through unsupervised and semi-supervised learning techniques.
 
 ## Key Features:
 
