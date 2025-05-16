@@ -39,12 +39,10 @@ The copyright of the original CAD models of the [ABC dataset](https://deep-geome
 The repository uses git lfs. to download the zip files, you may need to use:
 
 ```
-{
 git lfs pull
-}
 ```
 
-after cloning. The script scripts/unpack_archives.py can be used for unpacking. 
+after cloning. The script ```scripts/unpack_archives.py``` can be used for unpacking. 
 
 
 
