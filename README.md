@@ -30,7 +30,7 @@ These are provided as greyscale "images" with standard orthographic projections 
 Analogously, 3D data is represented as binary voxel grids with shape [128,128,128].  A Voxel is defined as an entry with the value one. Zero represents an empty grid element. 
 
 ### Usage
-The repository uses git lfs. to download the zip files, you may need to use:
+The repository uses git lfs. To download the zip files, you may need to use:
 
 ```
 git lfs pull
