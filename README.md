@@ -35,6 +35,19 @@ This dataset is based on the [ABC dataset ](https://deep-geometry.github.io/abc-
 
 The copyright of the original CAD models of the [ABC dataset](https://deep-geometry.github.io/abc-dataset/), which were used to create the imgvox dataset, is owned by its creators. For licensing details, please refer to Onshape [Terms of Use 1.g.ii](https://www.onshape.com/en/legal/terms-of-use).
 
+### Usage
+The repository uses git lfs. to download the zip files, you may need to use:
+
+```
+{
+git lfs pull
+}
+```
+
+after cloning. The script scripts/unpack_archives.py can be used for unpacking. 
+
+
+
 ## Download 
 
 By downloading the dataset, you agree to the following terms:
